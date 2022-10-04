@@ -16,6 +16,6 @@ func Cast(value string) int {
 	return 0
 }
 
-func clousere(value string) func(string) int {
-	return Cast(value)
-}
+// func clousere(value string) func(string) int {
+// 	return Cast(value)
+// }
