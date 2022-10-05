@@ -22,4 +22,10 @@ func main() {
 	fmt.Println(function.Hello("Polina", 76))
 	fmt.Println(function.Hello("Dwayne", 69))
 
+	function.FuncType()
+	function.FuncAsParam()
+	//OOP example
+	//Mongo example
+	//libs case
+
 }
