@@ -87,8 +87,8 @@ func Reference() {
 
 	fmt.Printf("%v map value \n", m) // by pointer
 
-	chanel := make(chan int, 3) //buf channel, 3 capacity;
-	fmt.Printf("%v chan value ", <-chanel)
+	// chanel := make(chan int, 3) //buf channel, 3 capacity;
+	// fmt.Printf("%v chan value ", <-chanel)
 
 	//pointer case
 
